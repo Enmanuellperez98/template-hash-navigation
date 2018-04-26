@@ -36,7 +36,7 @@ template.navBar = ()=>{
     input.setAttribute('type','text');
     input.setAttribute('placeholder','Search');
     input.setAttribute('aria-label','Search');
-
+ 
     ul.setAttribute('class','navbar-nav px-3');
     li.setAttribute('class','nav-item text-nowrap');
 
